@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Krishna41357/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [3934-smallest-unique-subarray](https://github.com/Krishna41357/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Bipartite Graph
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Krishna41357/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [3934-smallest-unique-subarray](https://github.com/Krishna41357/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Krishna41357/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Krishna41357/DSA/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Krishna41357/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Krishna41357/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Krishna41357/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
